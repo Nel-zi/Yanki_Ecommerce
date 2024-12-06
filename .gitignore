@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.myenv_yanki
 
 # Spyder project settings
 .spyderproject
